@@ -32,7 +32,8 @@
     ?>
     <br>
     <br>
-    <form action = "control.php" method="post">User: <input type="text" name="user"><br><br>    
+    <form action = "control.php" method="post">
+    User: <input type="text" name="user"><br><br>    
     Pass: <input type="password" name="clave"><br><br>
 <input type="submit" value="➤"></form>
     </div>
