@@ -14,7 +14,7 @@
 
     <div>
         <script>
-            var array = [
+            var listado = [
                 "Guille",
                 "Ismael",
                 "Gabriel",
@@ -30,8 +30,8 @@
             var nombre = prompt("¿Cómo te llamas?");
             var encontrado = false;
 
-            for(var i = 0; i < array.length; i++){
-                if(nombre === array[i]){
+            for(var i = 0; i < listado.length; i++){
+                if(nombre === listado[i]){
                     alert("Estás en la lista, " + nombre);
                     encontrado = true;
                     break; // Detenemos el ciclo si encontramos el nombre
