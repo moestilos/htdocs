@@ -11,6 +11,17 @@
 </head>
 <body>
     <h1>Pajaporte</h1>
+    <script>
+        var nombre =prompt("Dame tu nombre ---> ");
+        alert ("Hola, " + nombre + ", puto gilipollas");
+        var edad = prompt("Dime tu edad o te reviento ---> ");
+        if(edad < 18){
+            alert("No puedes ver porno")
+
+        } else {
+            alert("Bienvenido a pornhub")
+        }
+    </script>
 
     <form method="POST" action="">
         <input type="text" name="user" placeholder="user" required>
