@@ -1,0 +1,10 @@
+
+//PARA ENVIAR
+git init
+git add .
+git commit -m "hola"
+git push
+
+//PARA RECIBIR
+git init
+git pull
