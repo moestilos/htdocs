@@ -1,0 +1,9 @@
+{
+    "powermode.combo.timerEnabled": "show",
+    "powermode.presets": "flames",
+    "powermode.enabled": true,
+    "powermode.combo.counterEnabled": "hide",
+    "powermode.combo.location": "off",
+    "powermode.combo.counterSize": 2,
+    "powermode.shake.intensity": 0
+}
